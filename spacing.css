@@ -1,0 +1,15 @@
+#container{
+    background-color: #71a0e1;
+    height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.list{
+    margin-left: 200px;
+    background-color: red;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 50px;
+}
